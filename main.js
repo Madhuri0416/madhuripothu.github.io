@@ -48,7 +48,7 @@ ScrollReveal().reveal('.home-contact h4, .about-content',  { origin: 'right' });
 
 
 const typed =new Typed('.multiple-text',{
-    strings: ['Frontend Developer', 'Web Designer','Data Analyst'],
+    strings: ['Frontend Developer', 'Web Designer', 'Data Analyst'],
     typespeed: 70,
     backspeed: 70,
     backDelay: 1000,
