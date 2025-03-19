@@ -154,7 +154,7 @@ span{
 }
 
 .home-img img{
-    width: 35vw;
+    width: 10vw;
     border-radius: 100%;
     /* background-color:rgb(247, 168, 21); */
     box-shadow: 0 0 5rem var(--main-color);
