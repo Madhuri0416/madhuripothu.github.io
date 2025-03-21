@@ -310,9 +310,7 @@ span{
     border-radius: 2rem;
     box-shadow: 0 0 1rem var(--bg-color);
     overflow:hidden;
-    display:flex;
-    width: 20%;
-    height: 25%;
+    display:flex;  
 }
 
 .portfolio-box img {
