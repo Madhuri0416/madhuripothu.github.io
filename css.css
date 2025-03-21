@@ -298,8 +298,8 @@ span{
 .portfolio-container{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    width: 100rem;
-    height: 100rem;
+    width: 90vw;
+    height: 100vh;
     align-items: center;
     
     gap: 2.5rem;
@@ -311,6 +311,8 @@ span{
     box-shadow: 0 0 1rem var(--bg-color);
     overflow:hidden;
     display:flex;
+    width: 20%;
+    height: 25%;
 }
 
 .portfolio-box img {
