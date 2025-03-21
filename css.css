@@ -298,7 +298,8 @@ span{
 .portfolio-container{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-   
+    width: 10rem;
+    height: 10rem;
     align-items: center;
     
     gap: 2.5rem;
@@ -348,11 +349,11 @@ span{
     font-size: 1.5rem;
 }
 
-.portfolio-layer p{
+/* .portfolio-layer p{
     font-size: 1rem;
     margin: .3rem 0 1ewm;
     color:#fff;
-}
+} */
 
 .portfolio-layer a{
     display: inline-flex;
